@@ -1,2 +1,2 @@
 # hello-world
-For sharing ideas if any come in the future 
+For sharing ideas if any come in the future..
